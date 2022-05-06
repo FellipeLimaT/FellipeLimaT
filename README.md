@@ -3,9 +3,9 @@
 </div>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/ height="40"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/ height="40"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/ height="40"></a>&nbsp;&nbsp;  
+  <a href="https://www.linkedin.com/in/fellipe-lima-torres-6b50b8139/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/ height="40"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/fellipe.lima.12/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/ height="40"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/fellipelimat/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/ height="40"></a>&nbsp;&nbsp;  
 </p>
 
 
