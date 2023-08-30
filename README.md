@@ -21,12 +21,12 @@
 <br />
 <img align="right" height="350px" width="350px" alt="GIF" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif" />
 <p align="center">
-  <h3> I'm 25 years old, I have a degree in Technological Chemistry from CEFET-MG and I'm a driven student in full stack development. </h3>
+  <h3> I'm 26 years old, I have a degree in Technological Chemistry from CEFET-MG and I'm a driven student in full stack development. </h3>
 </p>
 
  - 💎 I want to be a respected developer in the future
  
- - 📚 Learning React
+ - 📚 Learning Nest.js
 
  - 💪 Always working mind and body
  
@@ -46,9 +46,13 @@
 <img alt="HTML5" width="36px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="JavaScript" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="React" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Node.js" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+<img alt="SQL" width="36px" style="margin-right: 20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="postgreSQL" width="36px" style="margin-right: 20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img alt="Git" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="GitHub" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="Terminal" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Terminal" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 </p>
 
 ### - Languages and Tools that I will learn ...
@@ -56,10 +60,7 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<img alt="React" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Node.js" width="36px" style="vertical-align:top; margin:4px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="SQL" width="36px" style="margin-right: 20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img alt="postgreSQL" width="36px" style="margin-right: 20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
 <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 </p>
