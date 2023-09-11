@@ -72,7 +72,7 @@
    </details>
 </div>
 
-<br>
+
 <img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
 
 <div align="center">
