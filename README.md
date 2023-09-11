@@ -65,7 +65,6 @@
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </p>
 
-<br>
 <div align="center">
    <details>
      <summary>:zap: Most Used Languages</summary>
